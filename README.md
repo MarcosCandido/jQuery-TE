@@ -64,4 +64,5 @@ Differences from the original repo
 -----
 
 As this project seems not to be maintained by the original author anymore, I forked it to publish some changes/improvements that I made to it to fit my needs.
-Nov 22 2015 - Added version 1.4.0 from the [original author's website]: http://jqueryte.com/download
+
+1. Nov 22 2015 - Added version 1.4.0 from the [original author's website](http://jqueryte.com/download)
