@@ -1,14 +1,15 @@
-﻿#What is jQuery TE?
+﻿What is jQuery TE?
+ ==================
 
 jQuery TE is a jQuery plugin. It is a lightweight and very useful HTML editor. And it works with WYSIWYG model.
 
 Most importantly, it can be integrated into your system in 1 minute. And you can modify it as you want in terms of interface. Even you can change the css classes.
 
 Everything is as simple as the following:  
-**$(“textarea”).jqte();**
+`$("textarea").jqte();`
 
-##Cross Browser
-
+Cross Browser
+-------------
 jQuery TE works with same performance on the most preferred browsers. And its source of the output is same as 90% on these browsers.
 
 Also, it compresses to source of the output automatically. jQuery TE's system runs more practical and more rapidly to other some editors.
@@ -33,7 +34,8 @@ used with the **$(“.editor”).jqte();** will be enough to write script.
 
 Of course you can also use a different attribute value.
 
-##Usage
+Usage
+-------------
 
 First include the latest version of jQuery. Next, download and include jquery-te-1.4.1.min.js and jquery-te-1.4.1.css (inside to head tags)
 
@@ -58,16 +60,18 @@ Finally, run this plugin
 
 That's it!
 
-##Differences from the original repo
+Differences from the original repo
+-------------
 
 As this project seems not to be maintained by the original author anymore, I forked it to publish some changes/improvements that I made to it to fit my needs.
 
 1. Nov 22 2015 - Added version 1.4.0 from the [original author's website](http://jqueryte.com/download)
 2. Mar 01 2016 - Released version 1.4.1
 
-##Changelog
+Changelog
+-------------
 
-####Version 1.4.1
+Version 1.4.1
 - implementation of "variables"
 - adjustments on IE compatibility
 - added namespace on button click events
